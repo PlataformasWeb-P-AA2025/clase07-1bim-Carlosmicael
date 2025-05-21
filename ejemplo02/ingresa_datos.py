@@ -27,11 +27,11 @@ m2 = Modulo(nombre="Segundo")
 m3 = Modulo(nombre="Tercero")
 
 # Se crean objetos de tipo Matricula
-matricula1 = Matricula(periodo="periodo aa2021", modulo=m1, estudiante=estudiante1)
+matricula1 = Matricula(periodo="periodo aa2020", modulo=m1, estudiante=estudiante1)
 matricula2 = Matricula(periodo="periodo aa2020", modulo=m2, estudiante=estudiante1)
 matricula3 = Matricula(periodo="periodo aa2019", modulo=m3, estudiante=estudiante1)
 
-matricula4 = Matricula(periodo="periodo aa2021", modulo=m1, estudiante=estudiante2)
+matricula4 = Matricula(periodo="periodo aa2020", modulo=m1, estudiante=estudiante2)
 matricula5 = Matricula(periodo="periodo aa2020", modulo=m2, estudiante=estudiante2)
 matricula6 = Matricula(periodo="periodo aa2019", modulo=m3, estudiante=estudiante2)
 
